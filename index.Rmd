@@ -1,0 +1,13 @@
+---
+title: "My Repo Site"
+author: "Monzer Gandor"
+date: "2024-02-22"
+output: 
+  html_document:
+    theme: sandstone
+---
+
+# This is a test
+Adding text here as a placeholder
+
+
